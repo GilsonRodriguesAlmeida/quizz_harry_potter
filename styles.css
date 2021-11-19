@@ -33,3 +33,26 @@ button {
     text-shadow: 0 -1px rgb(0 0 0 / 25%);
     cursor: pointer;
 }
+
+#resultado {
+    border: 1px solid gainsboro;
+    border-radius: 8px;
+    font-size: 30px;
+    padding: 35px;
+}
+
+.grifinoria {
+    background-color: #b50e28;
+}
+
+.sonserina {
+    background-color: #1e6b50;
+}
+
+.lufalufa {
+    background-color: #fee45c;
+}
+
+.corvinal {
+    background-color: #4f83a7;
+}
